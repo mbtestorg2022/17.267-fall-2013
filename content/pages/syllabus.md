@@ -33,13 +33,66 @@ Additional readings come from a variety of sources and are detailed in the [Read
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 15% |
-| Group presentation on readings | 10% |
-| Short written essay assignments | 20% |
-| Final paper outline | 5% |
-| Final paper | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group presentation on readings
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short written essay assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper outline
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further details, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
