@@ -252,7 +252,7 @@ Jacobson, Gary C. "Congressional Voters." Chapter 5 in _The Politics of Congress
 
 Griffin, John D., and Brian Newman. "[Are Voters Better Represented?](http://dx.doi.org/10.1111/j.1468-2508.2005.00357.x)" _Journal of Politics_ 67, no. 4 (2005): 1206–27.
 
-Leighley, Jan E., and Jonathan Nagler. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Who Votes Now? And Does it Matter?" (PDF)](http://staging.nonprofitvote.org/documents/2010/11/who-votes-now-and-does-it-matter.pdf) Working Paper, 2007.
+Leighley, Jan E., and Jonathan Nagler. ["Who Votes Now? And Does it Matter?" (PDF)](http://staging.nonprofitvote.org/documents/2010/11/who-votes-now-and-does-it-matter.pdf) Working Paper, 2007.
 
 
 {{< tdclose >}}
@@ -432,7 +432,7 @@ Bartels, Larry M. "Economic Inequality and Political Representation." Chapter 9 
 
 ———. "Policy Consequences of Representational Inequality." Chapter 9 in _Who Gets Represented?_ Edited by Peter K. Enns and Christopher Wlezien. Russell Sage Foundation, 2011. ISBN: 9780871542427. \[Preview with [Google Books](http://books.google.com/books?id=3Bba2mdB4coC&pg=PA247#v=onepage)\]
 
-Brunner, Eric, Stephen L. Ross, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Does Less Income Mean Less Representation?"(PDF)](http://economics.yale.edu/sites/default/files/files/Faculty/washington/less-income.pdf) NBER Working Paper, 2012.
+Brunner, Eric, Stephen L. Ross, et al. ["Does Less Income Mean Less Representation?"(PDF)](http://economics.yale.edu/sites/default/files/files/Faculty/washington/less-income.pdf) NBER Working Paper, 2012.
 
 
 {{< tdclose >}}
@@ -554,7 +554,7 @@ Cain, Bruce. E. Chapter 9 in _The Reapportionment Puzzle_. University of Califor
 
 Chen, Jowei, and Jonathan Rodden. "[Unintentional Gerrymandering: Political Geography and Electoral Bias in Legislatures](http://dx.doi.org/10.1561/100.00012033)." _Quarterly Journal of Political Science_ 8, no. 3 (2013): 239–69.
 
-Goedert, Nicholas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Gerrymandering or Geography? How Democrats Won the Popular Vote but Lost the Congress in 2012](http://dx.doi.org/10.1177/2053168014528683)." Working Paper, 2014.
+Goedert, Nicholas. "[Gerrymandering or Geography? How Democrats Won the Popular Vote but Lost the Congress in 2012](http://dx.doi.org/10.1177/2053168014528683)." Working Paper, 2014.
 
 McDonald, Michael P. "Legislative Redistricting." Chapter 10 in _Democracy in the States: Experiments in Election Reform_. Edited by Bruce E. Cain, Todd Donovan, and Caroline J. Tolbert. Brookings Institution Press, 2008. ISBN: 9780815713371.
 
@@ -576,7 +576,7 @@ Gerber, Elisabeth R., and Rebecca B. Morton. "[Primary Election Systems and Repr
 
 Kaufmann, Karen M., James G. Gimpel, et al. "[A Promise Fulfilled? Open Primaries and Representation](http://onlinelibrary.wiley.com/doi/10.1111/1468-2508.t01-2-00009/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)." _Journal of Politics_ 65, no. 2 (2003): 457–76.
 
-McGee, Eric, Seth Masket, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Primary Cause of Partisanship? Nomination Systems and Legislator Ideology." (PDF)](http://www.princeton.edu/~nmccarty/PrimarySystems.pdf) Working Paper, 2011.
+McGee, Eric, Seth Masket, et al. ["A Primary Cause of Partisanship? Nomination Systems and Legislator Ideology." (PDF)](http://www.princeton.edu/~nmccarty/PrimarySystems.pdf) Working Paper, 2011.
 
 
 {{< tdclose >}}
